@@ -1,0 +1,18 @@
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\bin\Debug\Knights_tour_WFA.exe.config
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\bin\Debug\Knights_tour_WFA.exe
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\bin\Debug\Knights_tour_WFA.pdb
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.csprojResolveAssemblyReference.cache
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.Form1.resources
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.Properties.Resources.resources
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.csproj.GenerateResource.Cache
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.exe
+c:\users\mário\documents\visual studio 2012\Projects\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.pdb
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\bin\Debug\Knights_tour_WFA.exe.config
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.exe
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.pdb
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\bin\Debug\Knights_tour_WFA.exe
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\bin\Debug\Knights_tour_WFA.pdb
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.csprojResolveAssemblyReference.cache
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.Form1.resources
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.Properties.Resources.resources
+C:\Users\Mário\Desktop\Git repositories\Knights_tour_WFA\Knights_tour_WFA\obj\Debug\Knights_tour_WFA.csproj.GenerateResource.Cache
